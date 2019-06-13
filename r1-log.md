@@ -6,6 +6,8 @@ The log of my #100DaysOfCode challenge. Started on [June 12, Wednesday, 2019].
 
 ## Day 1: June 12. Wednesday
 <h2>Today's Progress:</h2>
+<h3>Today's Progress:</h3>
+<h4>Today's Progress:</h4>
   
 </head>
 <p>
