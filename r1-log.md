@@ -7,7 +7,7 @@ The log of my #100DaysOfCode challenge. Started on [June 12, Wednesday, 2019].
 <h3>Day 1: June 12. Wednesday</h3>
 <h4>Today's Progress:</h4><p>Finished freeCodeCamp's "Basic HTML and HTML5" in "Responsive Web Design Certification" section.</p>
 
-<h4>Today's Progress:<p>Finished freeCodeCamp's "Basic HTML and HTML5" in "Responsive Web Design Certification" section.</p></h4>
+<h4>Today's Progress:</h4> <h5>Finished freeCodeCamp's "Basic HTML and HTML5" in "Responsive Web Design Certification" section.</h5>
 
 <h4>Thoughts:</h4>
 <p>
