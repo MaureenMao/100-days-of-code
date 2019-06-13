@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [June 12, Wednesday, 2019].
 
 ## Log
 
-### Day 1: June 12. Wednesday
+## Day 1: June 12. Wednesday
 <head>
   Today's Progress:
 </head>
@@ -12,11 +12,14 @@ The log of my #100DaysOfCode challenge. Started on [June 12, Wednesday, 2019].
   Finished freeCodeCamp's "Basic HTML and HTML5" in "Responsive Web Design Certification" section. May not fully remember all the HTML code which I learned today but can understand all the content and the structure. https://learn.freecodecamp.org/  
 </p>
 
-## Today's Progress: Spent time fixing CSS and figuring out how canvas works.
+### Today's Progress:
+Finished freeCodeCamp's "Basic HTML and HTML5" in "Responsive Web Design Certification" section.
 
-Thoughts: Feels good to be back at coding.
+### Thoughts:
+May not fully remember all the HTML code which I learned today but can understand all the content and the structure. Not sure if I should finish these HTML related classes first or should I work on python. 
 
-Link to work: Pomodoro Clock App
-Finished freeCodeCamp's "Basic HTML and HTML5" in "Responsive Web Design Certification" section. May not fully remember all the HTML code which I learned today but can understand all the content and the structure. https://learn.freecodecamp.org/
+### Link to work: 
+https://learn.freecodecamp.org/
+
 
 ### R1D2
