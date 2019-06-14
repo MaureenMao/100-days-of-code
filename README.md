@@ -1,4 +1,5 @@
 # I've joined the #100DaysOfCode Challenge
+This is my tweet: https://twitter.com/szuyu_chen_cody
 
 ## Contents
 
