@@ -14,6 +14,7 @@ The log of my #100DaysOfCode challenge. Started on June 12, Wednesday, 2019.
 <h4>Link to work:</h4>
 <p> https://learn.freecodecamp.org/ </p>
 
-<h3>Day 2:</h3>
+<h3>Day 2: June 13. Thursday</h3>
 from 8:25-9:00AM 15 sections in Basic CSS
+from 8:30-9:00PM 9 sections in Basic CSS
 
