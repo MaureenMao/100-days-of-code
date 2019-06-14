@@ -21,5 +21,4 @@ from 8:30-9:00PM 9 sections in Basic CSS
 None. Keep going! So tired right now!
 <h4>Link to work:</h4>
 <a href="day2">code of day2</a>
-day2
 
