@@ -1,7 +1,7 @@
 # Log of Round 1 of #100DaysOfCode - Cody Chen
 
 The log of my #100DaysOfCode challenge. Started on June 12, Wednesday, 2019.
-
+<strong>My twitter:</strong> <a href="https://twitter.com/szuyu_chen_cody">szuyu_chen_cody</a><br> 
 ## Log
 
 ### Day 1: June 12. Wednesday
