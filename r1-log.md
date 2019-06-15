@@ -6,7 +6,7 @@ The log of my #100DaysOfCode challenge. Started on June 12, Wednesday, 2019.
 
 ### Day 1: June 12. Wednesday
 <strong>Today's Progress:</strong> Finished freeCodeCamp's "Basic HTML and HTML5" in "Responsive Web Design Certification" section.
-<strong>Thoughts:</strong> May not fully remember all the HTML code which I learned today but can understand all the content and the structure. Not sure if I should finish these HTML related classes first or should I work on python.
+<strong>Thoughts:</strong> May not fully remember all the HTML code which I learned today but can understand all the content and the structure. Not sure if I should finish these HTML related classes first or should I work on python.<br>
 <strong>Link to work:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_website</a><br>
 
 
