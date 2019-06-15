@@ -39,9 +39,10 @@ https://www.microsoft.com/en-us/download/details.aspx?id=54765
 5:40PM-6:10PM: Vedio needs to be finished: https://www.youtube.com/watch?v=WvoLTXIjBYU
 6:20-6:50PM: Learning 13 sections in Applied Visual Design of Responsive Web Design Certification.
 
-<strong>Thoughts:</strong> None
+<strong>Thoughts:</strong> I finally understood how to make a bold font for specific text but hold others in normal form at the same time!!
 
-<strong>Link to work:</strong> <a href="r1code/day4">code of day2</a>
+<strong>Link to work:</strong> <a href="r1code/day4">code of day4</a><br>
+
 ----------------------------------Template-----------------
 <h3>Day x: xxx xx. xxxxx</h3>
 <h4>Today's Progress:</h4> 
