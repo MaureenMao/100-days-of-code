@@ -1,0 +1,117 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import os
+# !pip install opencv-python
+import cv2
+import sys
+DATADIR = "C:\Datasets\PetImages"
+CATEGORIES = ["Dog", "Cat"]
+
+for category in CATEGORIES:
+    path = os.path.join(DATADIR, category) # path to cats or dogs dir
+    for img in os.listdir(path):   
+        img_array = cv2.imread(os.path.join(path,img), cv2.IMREAD_GRAYSCALE)
+        plt.imshow(img_array, cmap="gray")
+        plt.show()
+        break
+    break
+    
+print(img_array.shape) # each image has different shape(size)
+
+IMG_SIZE = 70
+new_array = cv2.resize(img_array, (IMG_SIZE, IMG_SIZE))
+plt.imshow(new_array, cmap="gray")
+plt.show()
+
+training_data = []
+
+def create_training_data():
+    for category in CATEGORIES:
+        path = os.path.join(DATADIR, category) # path to cats or dogs dir
+        class_num = CATEGORIES.index(category)
+        for img in os.listdir(path): 
+            try:
+                img_array = cv2.imread(os.path.join(path,img), cv2.IMREAD_GRAYSCALE)
+                new_array = cv2.resize(img_array, (IMG_SIZE, IMG_SIZE))
+                training_data.append([new_array, class_num])
+            except Exception as e:
+                 pass
+
+create_training_data()
+
+print(len(training_data))
+
+import random
+random.shuffle(training_data)
+
+for sample in training_data[:10]:
+    print(sample[1])
+    
+X = []
+y = []
+
+for feature, label in training_data:
+    X.append(feature) # feature is the first column of training_data which is new_array
+    y.append(label)   # label is the second column of training_data which is class_num
+# print(X[1], y[1])
+
+X = np.array(X).reshape(-1, IMG_SIZE, IMG_SIZE, 1) # think again!!!!!!!
+print(X[1], y[1])
+
+import pickle
+# think again!!!! what's this for!!!!!!!!!!!!!!!
+pickle_out = open("X.pickle", "wb")
+pickle.dump(X, pickle_out)
+pickle_out.close()
+
+pickle_out = open("y.pickle", "wb")
+pickle.dump(y, pickle_out)
+pickle_out.close()
+
+pickle_in = open("X.pickle", "rb")
+X = pickle.load(pickle_in)
+
+X[1]
+
+
+/*---------------I'm break line ----------------------*/
+
+Applied Visual Design
+Applied Visual Design: Create Visual Balance Using the text-align Property
+<style>
+  h4 {
+    text-align: center;
+  }
+  p {
+    text-align: justify;    
+  }
+  .links {
+    margin-right: 20px;
+    
+  }
+  .fullCard {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding: 4px;
+  }
+  .cardContent {
+    padding: 10px;
+  }
+</style>
+<div class="fullCard">
+  <div class="cardContent">
+    <div class="cardText">
+      <h4>Google</h4>
+      <p>Google was founded by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University.</p>
+    </div>
+    <div class="cardLinks">
+      <a href="https://en.wikipedia.org/wiki/Larry_Page" target="_blank" class="links">Larry Page</a>
+      <a href="https://en.wikipedia.org/wiki/Sergey_Brin" target="_blank" class="links">Sergey Brin</a>
+    </div>
+  </div>
+</div>
+
+#1
+##2
+###3
