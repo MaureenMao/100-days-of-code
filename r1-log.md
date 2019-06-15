@@ -34,7 +34,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=54765
 <h4>Link to work:</h4>
 <a href="r1code/day3">code of day3</a>
 
-## Day 4: June 15. Saturday
+### Day 4: June 15. Saturday
 <strong>Today's Progress:</strong> Try to link the local file to Jupyter inotebook(which failed yesterday.) Yeah! I successed! Maybe it's because the authorization declined of my another laptop and Internest access.
 5:40PM-6:10PM: Vedio needs to be finished: https://www.youtube.com/watch?v=WvoLTXIjBYU
 6:20-6:50PM: Learning 13 sections in Applied Visual Design of Responsive Web Design Certification.
