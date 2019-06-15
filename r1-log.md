@@ -22,3 +22,24 @@ None. Keep going! It's not easy to work and self-learning at the same time. Chee
 <h4>Link to work:</h4>
 <a href="day2">code of day2</a>
 
+<h3>Day 3: June 14. Friday</h3>
+<h4>Today's Progress:</h4> 
+From 6:00-7:35PM 20 sections in Basic CSS <br>
+
+7:45PM https://www.youtube.com/watch?v=j-3vuBynnOE&t=232s
+https://www.microsoft.com/en-us/download/details.aspx?id=54765
+
+<h4>Thoughts:</h4>
+
+<h4>Link to work:</h4>
+<a href="day2">code of day2</a>
+
+
+----------------------------------Template-----------------
+<h3>Day x: xxx xx. xxxxx</h3>
+<h4>Today's Progress:</h4> 
+
+<h4>Thoughts:</h4>
+
+<h4>Link to work:</h4>
+<a href="day2">code of day2</a>
