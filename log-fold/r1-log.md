@@ -42,7 +42,7 @@ Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_websi
 ### Day 6: June xx. Saturday
 <strong>Today's Progress:</strong> <br>
 8:30-9:00AM: <a href="https://www.youtube.com/watch?v=WvoLTXIjBYU">Watched: Convolutional Neural Networks - Deep Learning basics with Python, TensorFlow and Keras p.3</a><br>
-</strong> <a href="https://www.youtube.com/watch?v=BqgTU7_cBnk">Vedio needs to be watched: Analyzing Models with TensorBoard - Deep Learning with Python, TensorFlow and Keras p.4</a><br>
+Vedio needs to be watched: <a href="https://www.youtube.com/watch?v=BqgTU7_cBnk">Analyzing Models with TensorBoard - Deep Learning with Python, TensorFlow and Keras p.4</a><br>
 <strong>Thoughts:</strong> <br>
 <strong>Link to Work:</strong> <a href="r1code/dayx">Code of Dayx</a><br>
 ----------------------------------Template-----------------
