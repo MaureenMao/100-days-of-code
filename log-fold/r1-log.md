@@ -37,15 +37,16 @@ Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_websi
 ### Day 5: June 16. Sunday
 <strong>Today's Progress:</strong> <br>
 <strong>Thoughts:</strong> <br>
-<strong>Link to Work:</strong> <a href="r1code/dayx">Code of Day5</a><br>
+<strong>Link to Work:</strong> <a href="r1code/day5">Code of Day5</a><br>
 
 ### Day 6: June 17. Monday
 <strong>Today's Progress:</strong> <br>
 8:30-9:00AM: Watched <a href="https://www.youtube.com/watch?v=WvoLTXIjBYU">Convolutional Neural Networks - Deep Learning basics with Python, TensorFlow and Keras p.3</a> and practiced the code in the video.<br> 
 7:30-8:08PM: Finished all sections in <strong>Applied Visual Design</strong> of Responsive Web Design <br>
 Vedio needs to be watched: <a href="https://www.youtube.com/watch?v=BqgTU7_cBnk">Analyzing Models with TensorBoard - Deep Learning with Python, TensorFlow and Keras p.4</a><br>
-<strong>Thoughts:</strong> <br>
-<strong>Link to Work:</strong> <a href="r1code/day6">Code of Dayx</a><br>
+Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_website</a><br>
+<strong>Thoughts:</strong> Yesterday, I found out the rules of the challenge shouldn't be tutorial or copying other people's code. So I'm wondering if I practice the code in freecodecamp is another type of violation. I saw the article <a href="https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/" How to Get a Developer Job in Less Than a Year</a> and still decide to stick to this practice temporarily. <br>
+<strong>Link to Work:</strong> <a href="r1code/day6">Code of Day6</a><br>
 ----------------------------------Template-----------------
 ### Day x: June xx. Saturday
 <strong>Today's Progress:</strong> <br>
