@@ -34,16 +34,16 @@ Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_websi
 <strong>Thoughts:</strong> I finally understood how to make a bold font for specific text but hold others in normal form at the same time!!<br>
 <strong>Link to Work:</strong> <a href="r1code/day4">Code of Day4</a><br>
 
-### Day 5: June xx. Saturday
+### Day 5: June 16. Sunday
 <strong>Today's Progress:</strong> <br>
 <strong>Thoughts:</strong> <br>
-<strong>Link to Work:</strong> <a href="r1code/dayx">Code of Dayx</a><br>
+<strong>Link to Work:</strong> <a href="r1code/dayx">Code of Day5</a><br>
 
-### Day 6: June xx. Saturday
+### Day 6: June 17. Monday
 <strong>Today's Progress:</strong> <br>
-8:30-9:00AM: <a href="https://www.youtube.com/watch?v=WvoLTXIjBYU">Watched: Convolutional Neural Networks - Deep Learning basics with Python, TensorFlow and Keras p.3</a><br>
-Vedio needs to be watched: <a href="https://www.youtube.com/watch?v=BqgTU7_cBnk">Analyzing Models with TensorBoard - Deep Learning with Python, TensorFlow and Keras p.4</a><br>
+8:30-9:00AM: Watched <a href="https://www.youtube.com/watch?v=WvoLTXIjBYU">Convolutional Neural Networks - Deep Learning basics with Python, TensorFlow and Keras p.3</a> and practiced the code in the video.<br> 
 7:30-8:08PM: Finished all sections in <strong>Applied Visual Design</strong> of Responsive Web Design <br>
+Vedio needs to be watched: <a href="https://www.youtube.com/watch?v=BqgTU7_cBnk">Analyzing Models with TensorBoard - Deep Learning with Python, TensorFlow and Keras p.4</a><br>
 <strong>Thoughts:</strong> <br>
 <strong>Link to Work:</strong> <a href="r1code/day6">Code of Dayx</a><br>
 ----------------------------------Template-----------------
