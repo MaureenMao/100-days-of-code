@@ -60,7 +60,7 @@ Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_websi
 Finished the section in Introduction to the Responsive Web Design, Introduction to the CSS Flexbox, and Introduction to the CSS Grid.<br>
 Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_website</a><br>
 <strong>Thoughts:</strong>I feel a little bit tired today. Perhaps I feel a little boring to edit these HTML code XD.<br>
-<strong>Link to Work:</strong> <a href="r1code/day8">Code of Day8</a><br>
+<strong>Link to Work:</strong> <a href="https://github.com/chen-szuyu-cody/100-days-of-code/blob/master/r1code/day8">Code of Day8</a><br>
 
 ----------------------------------Template-----------------
 ### Day x: June xx. Saturday
