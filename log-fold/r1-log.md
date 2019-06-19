@@ -48,7 +48,7 @@ Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_websi
 <strong>Thoughts:</strong> Yesterday, I found out the rules of the challenge shouldn't be tutorial or copying other people's code. So I'm wondering if practicing the code in freecodecamp is another type of violation. But after I read the article <a href="https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/"> How to Get a Developer Job in Less Than a Year</a>, I decided to stick to this plan still. <br>
 <strong>Link to Work:</strong> <a href="r1code/day6">Code of Day6</a><br>
 
-### Day 7: June xx. Saturday
+### Day 7: June 18. Tuesday
 <strong>Today's Progress:</strong>
 Finished the section in Introduction to the Applied Accessibility.
 Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_website</a><br>
