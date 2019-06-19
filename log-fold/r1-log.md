@@ -50,10 +50,10 @@ Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_websi
 
 ### Day 7: June xx. Saturday
 <strong>Today's Progress:</strong>
-Introduction to the Applied Accessibility Challenges
-<br>
-<strong>Thoughts:</strong> <br>
-<strong>Link to Work:</strong> <a href="r1code/dayx">Code of Dayx</a><br>
+Finished the section in Introduction to the Applied Accessibility.
+Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_website</a><br>
+<strong>Thoughts:</strong>Not a hard coding today since I went to a women conference at Wayfair today!<br>
+<strong>Link to Work:</strong> <a href="r1code/day7">Code of Dayy</a><br>
 
 ----------------------------------Template-----------------
 ### Day x: June xx. Saturday
