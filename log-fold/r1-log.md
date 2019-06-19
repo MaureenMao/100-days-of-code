@@ -57,10 +57,10 @@ Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_websi
 
 ### Day 8: June 19. Wednesday
 <strong>Today's Progress:</strong>
-Finished the section in Introduction to the Applied Accessibility.<br>
+Finished the section in Introduction to the Responsive Web Design, Introduction to the CSS Flexbox, and Introduction to the CSS Grid.<br>
 Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_website</a><br>
-<strong>Thoughts:</strong>Not a hard coding today since I went to a women conference at Wayfair today!<br>
-<strong>Link to Work:</strong> <a href="r1code/day7">Code of Day7</a><br>
+<strong>Thoughts:</strong>I feel a little bit tired today. Perhaps I feel a little boring to edit these HTML code XD.<br>
+<strong>Link to Work:</strong> <a href="r1code/day8">Code of Day8</a><br>
 
 ----------------------------------Template-----------------
 ### Day x: June xx. Saturday
