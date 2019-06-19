@@ -53,7 +53,7 @@ Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_websi
 Finished the section in Introduction to the Applied Accessibility.<br>
 Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_website</a><br>
 <strong>Thoughts:</strong>Not a hard coding today since I went to a women conference at Wayfair today!<br>
-<strong>Link to Work:</strong> <a href="r1code/day7">Code of Dayy</a><br>
+<strong>Link to Work:</strong> <a href="r1code/day7">Code of Day7</a><br>
 
 ----------------------------------Template-----------------
 ### Day x: June xx. Saturday
