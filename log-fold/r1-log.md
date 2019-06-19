@@ -55,6 +55,13 @@ Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_websi
 <strong>Thoughts:</strong>Not a hard coding today since I went to a women conference at Wayfair today!<br>
 <strong>Link to Work:</strong> <a href="r1code/day7">Code of Day7</a><br>
 
+### Day 8: June 19. Wednesday
+<strong>Today's Progress:</strong>
+Finished the section in Introduction to the Applied Accessibility.<br>
+Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_website</a><br>
+<strong>Thoughts:</strong>Not a hard coding today since I went to a women conference at Wayfair today!<br>
+<strong>Link to Work:</strong> <a href="r1code/day7">Code of Day7</a><br>
+
 ----------------------------------Template-----------------
 ### Day x: June xx. Saturday
 <strong>Today's Progress:</strong> <br>
