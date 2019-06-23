@@ -62,6 +62,14 @@ Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_websi
 <strong>Thoughts:</strong>I feel a little bit tired today. Perhaps I feel a little boring to edit these HTML code XD.<br>
 <strong>Link to Work:</strong> <a href="https://github.com/chen-szuyu-cody/100-days-of-code/blob/master/r1code/day8">Code of Day8</a><br>
 
+### Day 9: June 22. Saturday
+<strong>Today's Progress:</strong>
+Have started to build the project of "Responsive Web Design Projects - Build a Tribute Page" and still trying to figure out the what's the meaning of questions. Keep going!
+<br>
+Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_website</a><br>
+<strong>Thoughts:</strong> I am still trying to figure out what's the meaning of questions. Keep going! <br>
+<strong>Link to Work:</strong> <a href="https://github.com/chen-szuyu-cody/100-days-of-code/blob/master/r1code/day9">Code of Day8</a><br>
+
 ----------------------------------Template-----------------
 ### Day x: June xx. Saturday
 <strong>Today's Progress:</strong> <br>
