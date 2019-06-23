@@ -64,7 +64,7 @@ Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_websi
 
 ### Day 9: June 22. Saturday
 <strong>Today's Progress:</strong>
-Have started to build the project of "Responsive Web Design Projects - Build a Tribute Page" and still trying to figure out the what's the meaning of questions. Keep going!
+Have started to build the project of "Responsive Web Design Projects - Build a Tribute Page".
 <br>
 Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_website</a><br>
 <strong>Thoughts:</strong> I am still trying to figure out what's the meaning of questions. Keep going! <br>
