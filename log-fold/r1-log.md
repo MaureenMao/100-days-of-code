@@ -68,7 +68,7 @@ Have started to build the project of "Responsive Web Design Projects - Build a T
 <br>
 Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_website</a><br>
 <strong>Thoughts:</strong> I am still trying to figure out what's the meaning of questions. Keep going! <br>
-<strong>Link to Work:</strong> <a href="https://github.com/chen-szuyu-cody/100-days-of-code/blob/master/r1code/day9">Code of Day8</a><br>
+<strong>Link to Work:</strong> <a href="https://github.com/chen-szuyu-cody/100-days-of-code/blob/master/r1code/day9">Code of Day9</a><br>
 
 ----------------------------------Template-----------------
 ### Day x: June xx. Saturday
