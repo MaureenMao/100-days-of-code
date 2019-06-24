@@ -1,0 +1,24 @@
+<style>
+  #image {
+    width: 350px;
+  }
+  h2 {
+    font-family: Lobster, monospace;
+  } 
+  p {
+    font-size: 16px;
+    font-family: monospace;
+  }  
+</style>
+
+<h2 id="title">2019 Pride Parade</h1>
+<main>
+  <p id="img-caption"> Two little girls who married in NY have started their journey at 2019</p>
+  <a href="#"><img id="image" class="" src="https://image-store.slidesharecdn.com/8b6f3367-728f-4211-898c-2280d45e20ee-original.jpeg" alt="Picture of Cody and Taimi joining the 2019 Pride Parade"></a>
+  <div id="img-div"> 
+    <p id="img-caption"> Left side is Taimi and right is Cody.The picture was took at 2019 Pride Parade in Boston. </p>  
+  </div>
+  <p id="tribute-info">This was the first time Taimi and Cody joining the LGBTQ+ event together.They had a great time enjoying the USA culture.</p>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:6545443086770728960/" id="tribute-link" target="_blank" alt="links to an outside site that contains additional information about the subject of the pride parade"> More Information </a>
+   
+</main>
