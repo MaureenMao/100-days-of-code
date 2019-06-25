@@ -1,0 +1,27 @@
+7:10-7:44
+
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<h1 id="title">  </h1>
+<p id="description">  </p>
+<form id="survey-form">
+  <label id="name-label"><input type="text" placeholder="please enter your name" id="name"></label> 
+
+  <label id="email-label"><input type="email" placeholder="please enter your email" id="email" required></label> 
+
+  <label id="number-label"><input id="number" type="number" placeholder="please enter a number"></label>
+  <br>
+  <label for="HappyLevel"> 
+    <input id="level1" type="radio" name="HappyLevel">20% 
+    <input id="level2" type="radio" name="HappyLevel">40%
+    <input id="level3" type="radio" name="HappyLevel">60%    
+  </label>
+  <br>
+  <label for="ToDoList"> 
+    <input id="ToDo1" type="checkbox" name="ToDoList">ToDo1 
+    <input id="todo2" type="checkbox" name="ToDoList">ToDo2
+    <input id="todo3" type="checkbox" name="ToDoList">ToDo    
+  </label>
+  
+</form>
+
