@@ -70,6 +70,15 @@ Resources:</strong> <a href="https://learn.freecodecamp.org/">freecodecamp_websi
 <strong>Thoughts:</strong> I am still trying to figure out what's the meaning of questions. Keep going! <br>
 <strong>Link to Work:</strong> <a href="https://github.com/chen-szuyu-cody/100-days-of-code/blob/master/r1code/day9">Code of Day9</a><br>
 
+### Day 10: June 24. Monday
+<strong>Today's Progress:</strong>
+I have finished building the project of "Responsive Web Design Projects - Build a Tribute Page"!
+<br>
+Resources:</strong> <a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page">Responsive Web Design Projects - Build a Tribute Page</a><br>
+<strong>Thoughts:</strong> I am still trying to figure out what's the meaning of questions. Keep going! <br>
+<strong>Link to Work:</strong> <a href="https://github.com/chen-szuyu-cody/100-days-of-code/blob/master/r1code/day10">Code of Day10</a><br>
+<a href="https://codepen.io/CodyCSY/pen/LKLrJe">codepen_CodyCSY_Responsive Web Design Projects - Build a Tribute Page Project</a>
+
 ----------------------------------Template-----------------
 ### Day x: June xx. Saturday
 <strong>Today's Progress:</strong> <br>
