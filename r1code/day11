@@ -25,3 +25,37 @@
   
 </form>
 
+
+9:20-9:50 pm
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<h1 id="title"> Code 100 Days! </h1>
+<p id="description"> Keep coding everday with minimum 1 hour </p>
+<form id="survey-form">
+  <ul>
+    <li><label for="name" id="name-label">Name: </label>
+    <input type="text" placeholder="please enter your name" id="name" required> 
+    </li>
+
+  <li>
+    <label for="email" id="email-label">Email: </label>
+    <input type="email" placeholder="please enter your email" id="email" required>
+  <li>
+    <label for="number" id="number-label">Age: </label>
+    <input id="number" type="number" placeholder="please enter a number">
+  </li>
+  <br>
+  <label for="HappyLevel"> 
+    <input id="level1" type="radio" name="HappyLevel">20% 
+    <input id="level2" type="radio" name="HappyLevel">40%
+    <input id="level3" type="radio" name="HappyLevel">60%    
+  </label>
+  <br>
+  <label for="ToDoList"> 
+    <input id="ToDo1" type="checkbox" name="ToDoList">ToDo1 
+    <input id="todo2" type="checkbox" name="ToDoList">ToDo2
+    <input id="todo3" type="checkbox" name="ToDoList">ToDo    
+  </label>
+  <button type="submit">Submit</button>  
+</form>
+
