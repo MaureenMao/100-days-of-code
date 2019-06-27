@@ -90,6 +90,17 @@ I started to build the Survey Form of Responsive Web Design Projects. The progre
 <strong>Link to Work1:</strong> <a href="https://github.com/chen-szuyu-cody/100-days-of-code/blob/master/r1code/day11">Code of Day11</a><br>
 <strong>Link to Work2:</strong> <a href="https://codepen.io/CodyCSY/pen/vqJaqo">codepen_CodyCSY_Responsive Web Design Projects - Build a Survey Form Project</a>
 
+
+### Day 12: June 26. Wednesday
+<strong>Today's Progress:</strong>
+I'm still working on the Survey Form of Responsive Web Design Projects. The progress is 13/17.
+<br>
+<strong>Resources1:</strong> <a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form/">Responsive Web Design Projects - Build a Survey Form</a><br>
+<strong>Resources2:</strong> <a href="https://codepen.io/freeCodeCamp/full/VPaoNP">Build a Survey Form Template</a><br>
+<strong>Thoughts:</strong> I really couldn't find any clues from the tutorial in the previous sections... <br>
+<strong>Link to Work1:</strong> <a href="https://github.com/chen-szuyu-cody/100-days-of-code/blob/master/r1code/day12">Code of Day12</a><br>
+<strong>Link to Work2:</strong> <a href="https://codepen.io/CodyCSY/pen/vqJaqo">codepen_CodyCSY_Responsive Web Design Projects - Build a Survey Form Project</a>
+
 ----------------------------------Template-----------------
 ### Day x: June xx. Saturday
 <strong>Today's Progress:</strong> <br>
