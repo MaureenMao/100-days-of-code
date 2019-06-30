@@ -1,0 +1,96 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<style>
+  .silver-background {
+    background-color: silver;
+    width: 440px;
+    height: 300px;
+  } 
+  #survey-form {
+    height: 2000px;
+  }
+  .bultxt-pos{
+    position: relative;
+    height: px;
+    left: px;
+    width: 400x;
+    color: blue; 
+  }
+  .input {
+    width: 150px; 
+  }
+  [type='text'] {
+    position: absolute; 
+    width: 200px; 
+    left: 200px;
+  }
+  [type='email'] {
+    position: absolute;
+    width: 200px; 
+    left: 200px;
+  }
+  [type='number'] {
+    position: absolute; 
+    width: 200px; 
+    left: 200px;
+  }  
+  select {
+    position: absolute;
+    font: normal 15px Arial;
+    color: white
+  }
+  #dropdown {
+    position: absolute; 
+    width: 124px; 
+    height: 20px; 
+  }
+  .dropdown-content {
+    color: black; 
+    background: white;
+    position: absolute; 
+    width: 200px; 
+    left: 200px;
+  }     
+  [type='checkbox'] {
+    position: absolute;
+  }
+  #submit {
+    position: absolute;
+    Left: 200px;
+    Top: 380px; 
+  }
+</style> 
+
+
+<h1 id="title"> Code 100 Days! </h1>
+<main>
+  <p id="description"> Keep coding everday with minimum 1 hour </p>
+    <div class="silver-background">   
+      <form id="survey-form">
+        <ul>
+          <li><label for="name" id="name-label" class="bultxt-pos">Name: </label><input type="text" placeholder="please enter your name" id="name"  required></li><br> 
+          <li><label for="email" id="email-label">Email: </label><input type="email" placeholder="please enter your email" id="email" required></li><br> 
+          <li><label for="number" id="number-label">Age: </label><input class=input id="number" type="number" min="0" max="9" placeholder="please enter a number" required></li><br> 
+          <li><label for="drop1" id="drop1" class="bultxt-pos">Your Happy Level: </label>
+            <select id="dropdown" class="dropdown-content">
+              <option value="0">I'm very Happy</option>
+              <option value="1">Medium Happy</option>
+              <option value="2">Medium Happy</option></li><br>   
+
+          <li><label for="ToDoList"><input id="ToDo1" type="checkbox" name="ToDoList">ToDo1</label> 
+          <label for="ToDoList"><input id="todo2" type="checkbox" name="ToDoList">ToDo2</label>
+          <label for="ToDoList"><input id="todo3" type="checkbox" name="ToDoList">ToDo3</label></li>  
+
+        <li>
+        <label for="level1"><input id="level1" type="radio" name="HappyLevel">20%</label> 
+        <label for="level2"><input id="level2" type="radio" name="HappyLevel">40%</label>
+        <label for="level3"><input id="level3" type="radio" name="HappyLevel">60%</label>
+        </li>
+<ul>
+<br>
+
+
+  <button id="submit" type="submit">Submit</button>
+
+</form>
+</main>
