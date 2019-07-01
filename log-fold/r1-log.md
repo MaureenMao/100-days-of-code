@@ -101,6 +101,25 @@ I'm still working on the Survey Form of Responsive Web Design Projects. The prog
 <strong>Link to Work1:</strong> <a href="https://github.com/chen-szuyu-cody/100-days-of-code/blob/master/r1code/day12">Code of Day12</a><br>
 <strong>Link to Work2:</strong> <a href="https://codepen.io/CodyCSY/pen/vqJaqo">codepen_CodyCSY_Responsive Web Design Projects - Build a Survey Form Project</a>
 
+### Day 13: June xx. Saturday
+<strong>Today's Progress:</strong> <br>
+<strong>Thoughts:</strong> <br>
+<strong>Link to Work:</strong> <a href="r1code/dayx">Code of Dayx</a><br>
+
+
+### Day 14: June 26. Wednesday
+<strong>Today's Progress:</strong>
+The section of Applied Accessibility has more information. Take a look.
+<br>
+<strong>Resources1:</strong> <a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form/">Responsive Web Design Projects - Build a Survey Form</a><br>
+<strong>Resources2:</strong> <a href="https://codepen.io/freeCodeCamp/full/VPaoNP">Build a Survey Form Template</a><br>
+<strong>Resources3:</strong> <a href="https://www.w3schools.com/howto/howto_custom_select.asp">How TO - Custom Select Box</a><br>
+
+<strong>Thoughts:</strong> <br>
+<strong>Link to Work1:</strong> <a href="https://github.com/chen-szuyu-cody/100-days-of-code/blob/master/r1code/day12">Code of Day12</a><br>
+<strong>Link to Work2:</strong> <a href="https://codepen.io/CodyCSY/pen/vqJaqo">codepen_CodyCSY_Responsive Web Design Projects - Build a Survey Form Project</a>
+
+
 ----------------------------------Template-----------------
 ### Day x: June xx. Saturday
 <strong>Today's Progress:</strong> <br>
