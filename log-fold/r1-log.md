@@ -107,7 +107,7 @@ I'm still working on the Survey Form of Responsive Web Design Projects. The prog
 <strong>Link to Work:</strong> <a href="r1code/dayx">Code of Dayx</a><br>
 
 
-### Day 14: June 26. Wednesday
+### Day 14: July 01. Monday
 <strong>Today's Progress:</strong>
 The section of Applied Accessibility has more information. Take a look.
 <br>
@@ -116,7 +116,7 @@ The section of Applied Accessibility has more information. Take a look.
 <strong>Resources3:</strong> <a href="https://www.w3schools.com/howto/howto_custom_select.asp">How TO - Custom Select Box</a><br>
 
 <strong>Thoughts:</strong> <br>
-<strong>Link to Work1:</strong> <a href="https://github.com/chen-szuyu-cody/100-days-of-code/blob/master/r1code/day12">Code of Day12</a><br>
+<strong>Link to Work1:</strong> <a href="https://github.com/chen-szuyu-cody/100-days-of-code/blob/master/r1code/day14">Code of Day14</a><br>
 <strong>Link to Work2:</strong> <a href="https://codepen.io/CodyCSY/pen/vqJaqo">codepen_CodyCSY_Responsive Web Design Projects - Build a Survey Form Project</a>
 
 
