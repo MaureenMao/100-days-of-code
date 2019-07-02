@@ -131,13 +131,13 @@
                     <div>
             <li><p>How do You Feel?</p>
               <input id="good" type="checkbox" name="feel" value="good">
-              <label for="good">Feel good</label><br>
+              <label for="good"> Good</label><br>
               
               <input id="fair" type="checkbox" name="feel" value="fair">
-              <label for="fair">I's Okay</label><br>
+              <label for="fair">Okay</label><br>
             
               <input id="tired" type="checkbox" name="feel" value="tired">
-              <label for="tired">I'm tired</label><br>
+              <label for="tired">I'm Tired</label><br>
             </li>  
           </div><br>
 
