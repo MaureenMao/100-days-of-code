@@ -1,0 +1,153 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<style>
+  .silver-background {
+    background-color: ;
+    width: 440px;
+    height: 300px;
+  } 
+  #survey-form {
+  }
+  .bultxt-pos{
+    position: relative;
+    height: px;
+    left: px;
+    width: 400x;
+    color: black; 
+  }
+  .input {
+  }
+  [type='text'] {
+    position: absolute; 
+    width: 300px; 
+    left: 300px;
+  }
+  [type='email'] {
+    position: absolute;
+    width: 300px; 
+    left: 300px;
+  }
+  [type='number'] {
+    position: absolute; 
+    width: 300px; 
+    left: 300px;
+  }  
+  #dropdown {
+    position:absolute;
+    color:grey;
+    width: 300px;
+    left:300px;
+  }
+  .dropdown select {
+    color: black;
+  display: hide; /*hide original SELECT element: */
+  }
+  #dtitle {
+    color: grey;
+  }
+  .dropdown-content {
+    color: grey; 
+    background: white;
+    position: relative; 
+    width: 300px; 
+    left: 300px;
+  } 
+
+  [type='radio'] {
+  }
+  #ToDoList {
+  }  
+  [type='checkbox'] {
+    position:;
+  }
+  #comment {
+    height: 100px;
+    textalign: ;
+  }
+  [type='textarea'] {
+    position: absolute; 
+    width: 300px; 
+    height: 100px;
+    left: 300px;
+    textalign: bottom;
+  }  
+  #texta {
+    position: absolute; 
+    color: grey;
+    width: 300px; 
+    height: 100px;
+    left: 300px;
+  }  
+  textarea::placeholder {
+  color:;  
+}
+  
+  
+  #submit {
+    position: absolute;
+    Left: 300px;
+    Top:650px;
+  }
+</style> 
+
+
+<h1 id="title"> Code 100 Days! </h1>
+<main>
+  <p id="description"> Keep coding everday with minimum 1 hour! </p>
+    <div class="silver-background">   
+      <form id="survey-form">
+        <ul>
+          <li><label for="name" id="name-label" class="bultxt-pos">Name: </label><input type="text" placeholder="please enter your name" id="name"  required></li><br> 
+          <li><label for="email" id="email-label">Email: </label><input type="email" placeholder="please enter your email" id="email" required></li><br> 
+          <li><label for="number" id="number-label">Number of Day: </label><input class=input id="number" type="number" min="0" max="100" placeholder="please enter a number" required></li><br> 
+          
+          <div class="dropdown">
+          <li>How do you feel your progress:
+            <select id="dropdown">
+              <option value="0" id="dtitle">select your level</option>
+              <option value="1" >I'm very Productive</option>
+              <option value="2">Just running some code</option>
+              <option value="3">I've little progress</option>
+              <option value="3">I'm stucked. Need help!</option>
+            </select></li>
+          </div><br>
+
+          <div>
+            <li><p>What did you do today?</p>
+              <input id="td1" type="radio" name="ToDoList" value="td1">
+              <label for="td1">Write Log</label><br>
+              
+              <input id="td2" type="radio" name="ToDoList" value="td2">
+              <label for="td2">Document Code</label><br>
+            
+              <input id="td3" type="radio" name="ToDoList" value="td3">
+              <label for="td3">Twit</label><br>
+              
+              <input id="td3" type="radio" name="ToDoList" value="td3">
+              <label for="td3">Coding</label><br>
+            </li>  
+          </div><br>
+
+                    <div>
+            <li><p>How do You Feel?</p>
+              <input id="good" type="checkbox" name="feel" value="good">
+              <label for="good">Feel good</label><br>
+              
+              <input id="fair" type="checkbox" name="feel" value="fair">
+              <label for="fair">I's Okay</label><br>
+            
+              <input id="tired" type="checkbox" name="feel" value="tired">
+              <label for="tired">I'm tired</label><br>
+            </li>  
+          </div><br>
+
+        <!--<li><input id="comment" type="textarea" placeholder="Enter your comment here..." >
+        <label for="comment">Any Comments or Suggestions?</label></li><br>-->
+        
+        <li>Any Comments or Suggestions?<textarea id="texta" placeholder="Enter your comment here...."></textarea></li><br>
+
+        <button id="submit" type="submit">Submit</button>
+
+      </form>
+      <!--<footer>&copy; 2018 Camper Cat</footer>-->
+</main>
