@@ -122,7 +122,6 @@ The section of Applied Accessibility has more information. Take a look.
 ### Day 15: July 02. Tuesday
 <strong>Today's Progress:</strong>
 I've finally finished this "Build a Survey Form" project!!! (17/17)
-<br>
 <ul>
   <li>Resources1: <a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form/">Responsive Web Design Projects - Build a Survey Form</a></li>
   <li>Resources2: <a href="https://codepen.io/freeCodeCamp/full/VPaoNP">Build a Survey Form Template</a></li>
