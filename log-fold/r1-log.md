@@ -120,8 +120,7 @@ The section of Applied Accessibility has more information. Take a look.
 <strong>Link to Work2:</strong> <a href="https://codepen.io/CodyCSY/pen/vqJaqo">codepen_CodyCSY_Responsive Web Design Projects - Build a Survey Form Project</a>
 
 ### Day 15: July 02. Tuesday
-<strong>Today's Progress:</strong>
-I've finally finished this "Build a Survey Form" project!!! (17/17)
+<strong>Today's Progress:</strong> I've finally finished this "Build a Survey Form" project!!! (17/17)
 <ul>
   <li>Resources1: <a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form/">Responsive Web Design Projects - Build a Survey Form</a></li>
   <li>Resources2: <a href="https://codepen.io/freeCodeCamp/full/VPaoNP">Build a Survey Form Template</a></li>
@@ -129,11 +128,11 @@ I've finally finished this "Build a Survey Form" project!!! (17/17)
   <li>Resources4: <a href="https://stackoverflow.com/questions/10186913/html5-textarea-placeholder-not-appearing">HTML5 
   <li>Resources5: <a href="https://www.w3schools.com/tags/tag_textarea.asp">HTML <textarea> Tag</a></li>
 </ul>
-<strong>Thoughts:</strong>The layout of my text is not so good and I almost don't remember many of the knowladge I've learned in the previous sections. But I'm still proud of myself! Keep going!! <br>
+<strong>Thoughts:</strong> The layout of my text is not so good and I almost don't remember many of the knowladge I've learned in the previous sections. But I'm still proud of myself! Keep going!! <br>
 <strong>Link to Work:</strong>
 <ul>
-<li>Link1: <a href="https://github.com/chen-szuyu-cody/100-days-of-code/blob/master/r1code/day15">Code of Day15</a></li>
-<li>Link2: <a href="https://codepen.io/CodyCSY/pen/vqJaqo">codepen_CodyCSY_Responsive Web Design Projects - Build a Survey Form Project</a></li>
+  <li>Link1: <a href="https://github.com/chen-szuyu-cody/100-days-of-code/blob/master/r1code/day15">Code of Day15</a></li>
+  <li>Link2: <a href="https://codepen.io/CodyCSY/pen/vqJaqo">codepen_CodyCSY_Responsive Web Design Projects - Build a Survey Form Project</a></li>
 </ul>
 
 ----------------------------------Template-----------------
