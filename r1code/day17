@@ -1,0 +1,114 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<style>
+.header-background {
+    background-color: white;
+    width: 5000px;
+    height: 300px;
+    z-index:0;
+}    
+#header-img {
+    position: fixed;
+    width: 80px;
+    top: 10px;
+    left: 0px;
+} 
+#header-caption {
+    position: fixed;
+    text-align: left;
+    font-size: 14px;
+    top: -10px;
+    left: 100px;
+    background: white;
+}
+#nav-bar {
+    position: fixed; 
+    top: 70px;
+    left: 0px;   
+    text-align: left;
+    display: inline;
+
+}
+#form {
+    position: absolute;
+    top: 100px;
+    z-index:0;
+}
+
+
+</style>
+
+
+
+<header id="header">
+    <div class="header-background">
+    <figure>
+        <img id="header-img" src="https://englishlive.ef.com/blog/wp-content/uploads/sites/2/2014/07/its_time_to_learn_english.jpg" alt="It's time to learn English"> 
+        <figcaption id="header-caption">
+            <h1>Improve Your English Everyday</h1>
+        </figcaption>
+    </figure>
+
+    <nav id="nav-bar">
+        <a href="#start" class="nav-link">How To Start</a>
+        <a href="#podcast" class="nav-link">Podcast</a>
+        <a href="#read" class="nav-link">Reading Material</a>
+        <a href="#write" class="nav-link">Writing Material</a>
+    </nav>     
+    </div>
+</header>
+
+<main>
+    <form id="form">
+        <h4>Start Your English Journey Today!</h4>
+        <input id="email" type="email" placeholder="Enter your email adress" required>
+        <input id="submit" type="submit">
+        
+        <a url="https://www.freecodecamp.com/email-submit">
+
+    </form>
+
+
+
+    <section id="start">
+        <h2>How To Start</h2>
+        <article><h>Commit yourself to English 100 Days!</h></article>
+    </section>
+    <section id="podcast">
+        <h2>Podcast</h2>
+        <article><h>Podcast Resources List:</h></article>
+        <article>
+            <ul>
+                <li>This American Life</li>
+                <li>BBC Learning English</li>
+            </ul>
+        </article>
+    </section>
+    <section id="read">
+        <h2>Reading Material</h2>
+        <article><h>Reading Resources List:</h></article>
+        <article>
+            <ul>
+                <li>New York Times</li>
+                <li>Walstreet Journal</li>
+            </ul>
+        </article>        
+    </section>
+    <section id="write">
+        <h2>Writing Material</h2>
+        <article><h>Podcast Resources List:</h></article>
+        <article>
+          <ul>
+            <li>Diary</li>
+            <li>ToDoList</li>
+          </ul>
+        </article>  
+    </section>
+    
+   
+    <!--<video id="video" controls>
+  <source src="https://www.youtube.com/embed/9PAt4-EZsFA?list=PLAvg_1zuNXiSi2afk6JvCyaVTyPASGWyE" alt="It's time to learn English"> </video> -->
+<h2>How to Think in English to Improve Your English Speaking Skills</h2>
+<iframe id="video" width="640" height="360" src="https://www.youtube.com/embed/9PAt4-EZsFA?list=PLAvg_1zuNXiSi2afk6JvCyaVTyPASGWyE" alt="How to Think in English to Improve Your English Speaking Skills" ></iframe>
+
+</main>
